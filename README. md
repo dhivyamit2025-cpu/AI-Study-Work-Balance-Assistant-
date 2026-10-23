@@ -1,0 +1,27 @@
+
+# AI Study-Work Balance Assistant
+
+## About the Project
+This project helps students balance their studies, internships, projects, and personal activities.
+
+## Features
+- Add tasks and deadlines
+- Set task priorities
+- Categorize tasks
+- Track daily productivity
+- Plan weekly activities
+
+## Technologies Used
+- Python
+- Streamlit
+- GitHub
+
+## Installation
+Install the required library:
+pip install -r requirements.txt
+
+## Run the Project
+streamlit run app.py
+
+## Goal
+To help students manage their time effectively and improve productivity.
